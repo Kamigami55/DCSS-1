@@ -18,4 +18,6 @@ We illustrate such a model using 3D modeling.
 
 ## References
 
-To be updated
+- [daoneil/spacemission](https://github.com/daoneil/spacemission)
+- [USA Space Debris Environment, Operations, and Policy Updates](http://www.unoosa.org/pdf/pres/stsc2011/tech-31.pdf)
+
