@@ -9,6 +9,10 @@ Our great work for NASA hackathon 2018 Taipei
 - [2018 NASA Hackathon team page](https://2018.spaceappschallenge.org/challenges/can-you-build/design-based-nature-fusion/teams/whatarewedoinghereohohohoh-oh/project)
 - [Orbital Debris Visualization live demo (temporary)](http://makereallabs.com/Cesium_with_SGP.html)
 
+## What we want to solve
+
+Since the debris on space increase year by year. Some satellites are therefore being damaged by these garbage. Resulting in a considerable amount of loss. But the technology nowadays can not solve such a problem. In this case, we think a space ship with sustainabillity might be a good direction to improve the problem as Boyan Slat did. 
+
 ## Basic Idea
 
 we try to obtain the orbit debris data and converse them into the longitude and latitude data. 
