@@ -42,6 +42,9 @@ We illustrate such a model using 3D modeling.
 - [Shu Ming, Chang ( Eric )](https://github.com/ericz7000nolan)
 - [Yin Hsiang, Chang ( Eason )](https://github.com/Kamigami55/)
 
+## Powerpoint
+- https://drive.google.com/file/d/1DceDTZ9Sdh7Bcu7WrRrVSJb9wR8Y28c-/view?usp=sharing
+
 ## References
 
 - [daoneil/spacemission](https://github.com/daoneil/spacemission)
