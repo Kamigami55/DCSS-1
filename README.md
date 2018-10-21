@@ -7,7 +7,7 @@ Our great work for NASA hackathon 2018 Taipei
 ## 1. Project related links
 - [Github repo](https://github.com/Kamigami55/DCSS-1/)
 - [2018 NASA Hackathon team page](https://2018.spaceappschallenge.org/challenges/can-you-build/design-based-nature-fusion/teams/whatarewedoinghereohohohoh-oh/project)
-- [Orbital Debris Visualization live demo](http://makereallabs.com/Cesium_with_SGP.html) (temporary)
+- [Orbital Debris Visualization live demo](https://whatarewedoinghereohohoh.github.io/OrbitalDebrisVisualization/index.html)
 - [Presentation in 2018 NASA Hackathon Taipei 20181021 (powerpoint)](https://drive.google.com/file/d/1DceDTZ9Sdh7Bcu7WrRrVSJb9wR8Y28c-/view?usp=sharing)
 
 ## 2. What we want to solve - Orbital Debris problem
