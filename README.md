@@ -2,6 +2,8 @@
 
 Our great work for NASA hackathon 2018 Taipei
 
+![](https://imgur.com/7tYi4eZ.png)
+
 ## Project links
 - [Github repo](https://github.com/Kamigami55/DCSS-1/)
 - [2018 NASA Hackathon team page](https://2018.spaceappschallenge.org/challenges/can-you-build/design-based-nature-fusion/teams/whatarewedoinghereohohohoh-oh/project)
