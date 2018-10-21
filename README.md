@@ -4,16 +4,26 @@ Our great work for NASA hackathon 2018 Taipei
 
 ![](https://imgur.com/7tYi4eZ.png)
 
-## Project links
+## 1. Project related links
 - [Github repo](https://github.com/Kamigami55/DCSS-1/)
 - [2018 NASA Hackathon team page](https://2018.spaceappschallenge.org/challenges/can-you-build/design-based-nature-fusion/teams/whatarewedoinghereohohohoh-oh/project)
 - [Orbital Debris Visualization live demo (temporary)](http://makereallabs.com/Cesium_with_SGP.html)
 
-## What we want to solve
+## 2. What we want to solve - Orbital Debris problem
 
 Since the debris on space increase year by year. Some satellites are therefore being damaged by these garbage. Resulting in a considerable amount of loss. But the technology nowadays can not solve such a problem. In this case, we think a space ship with sustainabillity might be a good direction to improve the problem as Boyan Slat did. 
 
-## Basic Idea
+## 3. Basic Idea of DCSS-1
+
+DCSS-1 is a new type of spacecraft designed to cleanup orbital debris around Earth.
+
+It contains the following key components:
+
+- Spacecraft body ( a 10km long rope with heavy loads on 2 side )
+- Solar sails
+- Debris capture web ( can be stored in the rope )
+- 5 Movable heavy loads
+- Tidal power generator
 
 we try to obtain the orbit debris data and converse them into the longitude and latitude data. 
 And display these information on a web using javascript and webGL. 
@@ -22,7 +32,19 @@ The importance of our design is that we only need to supply the fuel once and fo
 The space ship will move by itself automatically. 
 We illustrate such a model using 3D modeling.
 
-## characteristic
+## 4. Technologies detail
+
+### (1) Visualization of Orbital Debris
+
+Live demo: http://makereallabs.com/Cesium_with_SGP.html
+Data resource: [NORAD & NASA TLE](https://celestrak.com/NORAD/elements/)
+
+Technologies we used:
+- Satellite.js: Converting TLE data format to SGP4
+- Cesium.js: Visualizing objects on virtual globe
+
+### (2) Characteristic of DCSS-1 spacecraft
+
 1. use the gravity of earth to implement semi-automatic self-generating electric power
 2. provide a new solution to clean the space debris
 3. reusable
