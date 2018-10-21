@@ -26,6 +26,8 @@ We illustrate such a model using 3D modeling.
 
 ![](https://imgur.com/bEQ1YXw.png)
 
+![](https://imgur.com/JfG3Wr9.gif)
+
 ## References
 
 - [daoneil/spacemission](https://github.com/daoneil/spacemission)
