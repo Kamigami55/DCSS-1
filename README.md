@@ -36,6 +36,12 @@ We illustrate such a model using 3D modeling.
 
 ![](https://imgur.com/JfG3Wr9.gif)
 
+## Team members
+- [Chi Sheng, Chen ( Michael )](https://github.com/ChiShengChen)
+- [Chi Lin, Lu ( James )](https://github.com/lujames13)
+- [Shu Ming, Chang ( Eric )](https://github.com/ericz7000nolan)
+- [Yin Hsiang, Chang ( Eason )](https://github.com/Kamigami55/)
+
 ## References
 
 - [daoneil/spacemission](https://github.com/daoneil/spacemission)
