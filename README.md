@@ -7,7 +7,8 @@ Our great work for NASA hackathon 2018 Taipei
 ## 1. Project related links
 - [Github repo](https://github.com/Kamigami55/DCSS-1/)
 - [2018 NASA Hackathon team page](https://2018.spaceappschallenge.org/challenges/can-you-build/design-based-nature-fusion/teams/whatarewedoinghereohohohoh-oh/project)
-- [Orbital Debris Visualization live demo (temporary)](http://makereallabs.com/Cesium_with_SGP.html)
+- [Orbital Debris Visualization live demo](http://makereallabs.com/Cesium_with_SGP.html) (temporary)
+- [Presentation in 2018 NASA Hackathon Taipei 20181021 (powerpoint)](https://drive.google.com/file/d/1DceDTZ9Sdh7Bcu7WrRrVSJb9wR8Y28c-/view?usp=sharing)
 
 ## 2. What we want to solve - Orbital Debris problem
 
@@ -32,16 +33,25 @@ The importance of our design is that we only need to supply the fuel once and fo
 The space ship will move by itself automatically. 
 We illustrate such a model using 3D modeling.
 
-## 4. Technologies detail
+## 4. Technology details
 
 ### (1) Visualization of Orbital Debris
 
-Live demo: http://makereallabs.com/Cesium_with_SGP.html
-Data resource: [NORAD & NASA TLE](https://celestrak.com/NORAD/elements/)
+By visualizing orbital debris, we can easily know how important the problem of orbital debris is.
+
+And can help us to find the best path to deploy our DCSS-1 to clean more debris
+
+**Live demo: http://makereallabs.com/Cesium_with_SGP.html**
+
+Result: 
+
+![](https://github.com/Kamigami55/DCSS-1/blob/master/orbital-debris-visualization.gif)
 
 Technologies we used:
 - Satellite.js: Converting TLE data format to SGP4
 - Cesium.js: Visualizing objects on virtual globe
+
+Data resource: [NORAD & NASA TLE](https://celestrak.com/NORAD/elements/)
 
 ### (2) Characteristic of DCSS-1 spacecraft
 
@@ -52,22 +62,29 @@ Technologies we used:
 5. use solar sails as power source to fix the latitude
 6. positioning with tle of space debris
 
-## Technology details
+### (3) Design of DCSS-1 spacecraft
+
+It contains the following key components:
+
+- Spacecraft body ( a 10km long rope with heavy loads on 2 side )
+- Solar sails
+- Debris capture web ( can be stored in the rope )
+- 5 Movable heavy loads
+- Tidal power generator
 
 ![](https://imgur.com/bEQ1YXw.png)
 
+### (4) Operation of DCSS-1 spacecraft
+
 ![](https://imgur.com/JfG3Wr9.gif)
 
-## Team members
+## 5. Team members
 - [Chi Sheng, Chen ( Michael )](https://github.com/ChiShengChen)
 - [Chi Lin, Lu ( James )](https://github.com/lujames13)
 - [Shu Ming, Chang ( Eric )](https://github.com/ericz7000nolan)
 - [Yin Hsiang, Chang ( Eason )](https://github.com/Kamigami55/)
 
-## Powerpoint
-- https://drive.google.com/file/d/1DceDTZ9Sdh7Bcu7WrRrVSJb9wR8Y28c-/view?usp=sharing
-
-## References
+## 6. References
 
 - [daoneil/spacemission](https://github.com/daoneil/spacemission)
 - [USA Space Debris Environment, Operations, and Policy Updates](http://www.unoosa.org/pdf/pres/stsc2011/tech-31.pdf)
