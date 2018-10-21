@@ -76,6 +76,12 @@ It contains the following key components:
 
 ### (4) Operation of DCSS-1 spacecraft
 
+DCSS-1 spacecraft workflow:
+
+![](https://imgur.com/lzhTtBQ.png)
+
+Simulation of DCSS-1 spacecraft:
+
 ![](https://imgur.com/JfG3Wr9.gif)
 
 ## 5. Team members
