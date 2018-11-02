@@ -41,7 +41,7 @@ By visualizing orbital debris, we can easily know how important the problem of o
 
 And can help us to find the best path to deploy our DCSS-1 to clean more debris
 
-**Live demo: http://makereallabs.com/Cesium_with_SGP.html**
+**Live demo: https://whatarewedoinghereohohoh.github.io/OrbitalDebrisVisualization/index.html**
 
 Result: 
 
